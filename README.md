@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #  🕵️‍♂️ Cyber-Practicle Evolution
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/onlyneer4j.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/onlyneer4j.png)
 
 Check out my profile on [TryHackMe](https://tryhackme.com/p/onlyneer4j)!
 
